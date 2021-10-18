@@ -9,4 +9,4 @@ class www_111_com_cn():
         self.index="https://www.111.com.cn/"
         self.categories_index="https://www.111.com.cn/categories/"
         self.categories={}
-        pass
+        
